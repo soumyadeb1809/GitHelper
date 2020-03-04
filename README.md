@@ -5,7 +5,7 @@ Pre-requisites
 - Git bash must be installed in your system
 
 Steps to get started:
-- Clone the repo
+- Clone/download the repository
 - Copy the scripts in any directory (D:/UI Development)
 - Make sure to remove all un-necessary repositories in the folder where you have your git repositories checked out, to improve Fetch/Push times
 - Add the path to the scripts in your System Path variable or Account Path variable
